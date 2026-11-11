@@ -61,7 +61,7 @@ public class CheckingAccount implements HasMenu, Serializable {
             		System.out.println("Invalid amount or not enough money");
         }
 
-        checkbalance();
+        System.out.println("new Balance: " + getBalanceString());
     }
 
     public String menu() {
