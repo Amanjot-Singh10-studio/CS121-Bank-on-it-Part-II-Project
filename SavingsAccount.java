@@ -21,3 +21,4 @@ public class SavingsAccount extends CheckingAccount {
 		return interestRate; 
 	} 
 }
+

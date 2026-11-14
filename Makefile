@@ -36,3 +36,4 @@ testSavings: SavingsAccount.class
 
 clean:
 	rm *.class
+
